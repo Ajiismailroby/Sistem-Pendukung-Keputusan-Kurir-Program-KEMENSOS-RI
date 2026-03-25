@@ -1,5 +1,5 @@
 # Sistem-Pendukung-Keputusan-Kurir-Program-KEMENSOS-RI
-Ini adalah SPK untuk mencari Kurir terbaik menggunakan beberapak kualifikasi sesuai dengan kondisi tempat kerja saya dulu. Tujuanya adalah agar memudahkan ketua dalam menentukan kualitas kerja kurir secara maksimal.
+Ini adalah SPK untuk mencari Kurir terbaik menggunakan beberapak kualifikasi sesuai dengan kondisi tempat kerja saya dulu. Tujuanya adalah agar memudahkan ketua dalam menentukan kualitas kerja kurir secara maksimal. Hasil dari perhitungan SPK ini bisa didownload dalam bentuk file PDF yang berguna sebagai hasil laporan atau untuk keperluan evaluasi kerja kurir.
 <img width="1350" height="246" alt="Cuplikan layar 2025-07-07 115016" src="https://github.com/user-attachments/assets/67e4adec-0444-486c-a67b-caf131e5124d" />
 <img width="1358" height="513" alt="Cuplikan layar 2025-07-07 102805" src="https://github.com/user-attachments/assets/bd5fd15d-5082-4e82-a875-fdc1fa1bab26" />
 <img width="1347" height="491" alt="Cuplikan layar 2025-07-07 115047" src="https://github.com/user-attachments/assets/8ea2b0d5-b8ab-437b-a8e8-536c1071443d" />
